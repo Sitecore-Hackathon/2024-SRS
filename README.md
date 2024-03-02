@@ -12,7 +12,7 @@
   - Azure Computer Vision seamlessly integrates with Sitecore's media library, automating the tagging of images. Leveraging advanced image analysis, it enhances content organization and searchability. This integration streamlines content management, providing efficient categorization for improved user experiences.
 
 ## Video link
-⟹ [https://www.youtube.com/](https://youtu.be/0h2ZYV6RVrM?si=ZFZzfnVbIAfqqeUX)
+⟹ https://www.youtube.com/watch?v=0h2ZYV6RVrM
 
 ## Pre-requisites and Dependencies
 
